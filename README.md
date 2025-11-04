@@ -14,7 +14,7 @@
 
 </div>
 
-## Overview
+## Overview x402 Vending Machine
 
 **x402 Vending Machine** transforms any x402 service into an **investable primitive**. It enables:
 
